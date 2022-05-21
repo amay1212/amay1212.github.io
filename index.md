@@ -1,7 +1,12 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+---
+layout: default
+permalink: /index.html
+---
 
-![Image of fast.ai logo](images/logo.png)
+## About Me
 
-## This is a title
+Hi! My name is Amay Trivedi, and I'm a Machine Learning/Deep Learning Professional at FIS Global.
+## Noteable Articles and Posts
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+
+- [Dry Waste Classification using FAST-AI V2](https://amay1212.github.io/amay-trivedi/2022/02/20/Waste-Sorting-Extended-Version-Fast-AI-v2.html)
