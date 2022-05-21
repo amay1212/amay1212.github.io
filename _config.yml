@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 name: My Website (Amay Trivedi)
-# title: This website shows my technical blogs.
+title: This website shows my technical blogs.
 description: Blogging as a Deep Learning Enthusiast
 github_username: amay1212
 
